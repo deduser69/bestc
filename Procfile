@@ -1,1 +1,1 @@
-worker: bash start
+worker: /bin/bash", "/start.sh
