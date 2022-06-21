@@ -1,1 +1,1 @@
-worker: /VCPlayerBot
+worker: bash start
